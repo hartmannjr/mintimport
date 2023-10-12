@@ -1,22 +1,28 @@
 # mintimport
-imports mints csv files for assets and liabilities into a running list
+imports mints csv files for assets and liabilities into a running list on a google sheet of your choosing.
 
 this code is for trimming and importing assets and liabilities csv's from Mint.com. 
 
-Setup 
+Requirements: 
 Must have: 
 
 google drive folders named:
 - AssetImport
 - LiabilityImport
 
-sheets named:
+Google sheet with sheets named:
 - AssetImport
 - LiabilityImport
 
 daily trigger
 
-set up trigger:
+
+Setup: 
+
+When in your google sheet, go to Extension > App Script
+copy the code fom the Code.gs file into the Code.gs file on your Apps Script Project.
+
+Set up trigger:
 1. in your sheets Apps Script project go to Triggers
 2. "+ Add Trigger"
 3. Set the following
