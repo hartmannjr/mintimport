@@ -5,13 +5,16 @@ this code is for trimming and importing assets and liabilities csv's from Mint.c
 
 Setup 
 Must have: 
-  google drive folders named:
-  - AssetImport
-  - LiabilityImport
-  sheets named:
-  - AssetImport
-  - LiabilityImport
-  daily trigger
+
+google drive folders named:
+- AssetImport
+- LiabilityImport
+
+sheets named:
+- AssetImport
+- LiabilityImport
+
+daily trigger
 
 set up trigger:
 1. in your sheets Apps Script project go to Triggers
