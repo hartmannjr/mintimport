@@ -46,3 +46,6 @@ repeat these steps for Liabilities.
 
 there is a chrome extension called "Save to Google Drive" that allows you to right click on the download link in step 2 and save directly to drive. 
 this allows you to skip the trouble of downloading the files of the same name and having Windows try to override the name to "trends (1).csv" (if you save and upload with this name, this code will fail)
+
+credit to u/zacce for the inspiration
+https://www.reddit.com/r/mintuit/comments/f0ts2q/howto_automatically_import_mintcom_transactions/
